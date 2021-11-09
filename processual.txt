@@ -118,6 +118,16 @@ Defina: Notitia criminis indireta ou mediata #
 Quando a autoridade toma conhecimento através de terceiros (delatio criminis)
 
 
+Tipos de flagrantes #
+Próprio
+Impróprio
+Presumido
+Esperado
+Ação controlada
+Preparado
+Forjado
+
+
 Defina: Notitia criminis coercitiva #
 Ato de prisã em prisão em flagrante
 
@@ -134,26 +144,8 @@ Definição do flagrante impróprio #
 Quando é perseguido logo após o crime
 
 
-Tipos de flagrantes #
-Próprio
-Impróprio
-Presumido
-Esperado
-Ação controlada
-Preparado
-Forjado
-
-
 Tipos de flagrantes ilegais#
 Forjado e preparado
-
-
-Definição do flagrante Próprio #
-Quando o agente está cometendo um crime ou acaba de cometa-lo
-
-
-Definição do flagrante Impróprio #
-Perseguido após o crime
 
 
 Definição do flagrante Presumido #
