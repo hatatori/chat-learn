@@ -14,8 +14,8 @@
         obj = []
         n = 0
         for(item of x.split("\r\n\r\n\r\n")){
-            pergunta = item.split("#")[0].trim()
-            resposta = item.split("#")[1].trim()
+            pergunta = item.split("#")[0]
+            resposta = item.split("#")[1]
             obj.push({
                 per:pergunta, 
                 res:resposta, 
