@@ -5,6 +5,7 @@ Procedimento administrativo da ação penal para a colheita de materialidade e a
 O que busca a justa causa do inquérito policial? #
 Materialidade e autoria
 
+
 Quem é o titular da ação pública condicionada? #
 Ofendido
 
@@ -173,4 +174,3 @@ Montado esquema para prender
 
 Definição do flagrante Forjado #
 Não existindo o crime, implementam objetos ou criam situações para encrimina-lo, ex: Colocar uma arma no porta mala de alguém durante
-
