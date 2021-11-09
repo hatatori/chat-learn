@@ -5,7 +5,7 @@
 
         // get content
 
-        arquivo = window.location.href.split("/").pop()
+        arquivo = window.location.href.split("?").pop()
 
         x = await fetch(arquivo+'.txt')
         x = await x.text()
@@ -115,11 +115,9 @@ function listaesquerda(o){
         p.innerHTML = (nu++)+") "+e.per
         p.onclick=function(){
             numero_da_questao = this.po
-            // light(this.po-1); 
             hr()
             questao(obj,this.po)
             endScroll()
-            // light(this.po-1)
         }
         lista_de_questoes.appendChild(p)
     })
