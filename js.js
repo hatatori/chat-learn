@@ -147,7 +147,7 @@ function light(n){
 
 bt_prev.onclick=()=>{
     lista_de_questoes.classList.toggle('flex-0')
-    lista_de_questoes.classList.toggle('flex-2')
+    lista_de_questoes.classList.toggle('flex-5')
 }
 
 bt_send.onclick=()=>{
