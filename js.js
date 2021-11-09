@@ -76,9 +76,6 @@ function stringtotag(str){
 
 barra.onkeyup=function(e){
     if(e.key == "Enter" && this.value.length > 0){
-        
-        // questao(obj ,numero_da_questao)
-        
         post(this.value,1)
         chat.lastChild.classList.remove('opacity-0')
         this.value = ""
@@ -86,16 +83,29 @@ barra.onkeyup=function(e){
         post(obj[numero_da_questao].res ,0)
         
         endScroll()
-
         setTimeout(()=>{
             hr()
             post(obj[++numero_da_questao].per ,0)
             light(numero_da_questao)
             endScroll()
         },1000)
-
-        
     }
+}
+
+function enviarResposta(){
+    post(barra.value,1)
+        chat.lastChild.classList.remove('opacity-0')
+        barra.value = ""
+        
+        post(obj[numero_da_questao].res ,0)
+        
+        endScroll()
+        setTimeout(()=>{
+            hr()
+            post(obj[++numero_da_questao].per ,0)
+            light(numero_da_questao)
+            endScroll()
+        },1000)
 }
 
 function questao(o,n){
@@ -108,11 +118,12 @@ function questao(o,n){
 
 function listaesquerda(o){
     nu = 0
+    nu2 = 1
     o.map(e=>{
         p = document.createElement('p')
         p.className = "cursor-pointer some text-gray"
         p.po = nu
-        p.innerHTML = (nu++)+") "+e.per
+        p.innerHTML = (nu2++)+") "+e.per
         p.onclick=function(){
             numero_da_questao = this.po
             hr()
@@ -120,6 +131,7 @@ function listaesquerda(o){
             endScroll()
         }
         lista_de_questoes.appendChild(p)
+        nu++
     })
 }
 
@@ -136,4 +148,8 @@ function light(n){
 bt_prev.onclick=()=>{
     lista_de_questoes.classList.toggle('flex-0')
     lista_de_questoes.classList.toggle('flex-2')
+}
+
+bt_send.onclick=()=>{
+    enviarResposta()
 }
