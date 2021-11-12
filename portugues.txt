@@ -26,7 +26,6 @@ Classe de palavras invariáveis #
 
 
 Tipos de Numeral#
-(COMF)
 Cardinal
 Ordinal
 Multiplicativo
@@ -34,7 +33,6 @@ Fracionário
 
 
 Tipos de Adjetivo #
-(SCPDP)
 Simples
 Composto
 Primitivo
@@ -57,7 +55,7 @@ Regular
 Irregular
 
 
-Exemplo de verbo transitivo indireto #
+Exemplo de verbo intransitivo#
 Verbos intransitivos são verbos com significado completo
 
 "O bebê caiu."
