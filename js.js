@@ -38,9 +38,9 @@
 function msg(msg,n){
 
 if(n == 0)
-    s = `<pre class="shadow max-w-3 bg-black-3 m-1 p-1 rounded opacity-0">${msg}</pre>`
+    s = `<pre class="shadow bg-black-3 m-1 p-1 rounded opacity-0">${msg}</pre>`
 else
-    s = `<pre class="shadow max-w-3 bg-black-1 m-1 p-1 rounded self-end opacity-0">${msg}</pre>`
+    s = `<pre class="shadow bg-black-1 m-1 p-1 rounded self-end opacity-0">${msg}</pre>`
 
 return stringtotag(s)
 }

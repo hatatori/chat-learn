@@ -1,3 +1,19 @@
+Definição de Parônimos#
+Escritas ou pronúncias iguais, mas sentidos diferentes
+
+"A colher caiu."
+"Vou colher as plantas do jardim."
+
+"A manga está ótima."
+"A manga da camisa está rasgada."
+
+Definição de Homônimos #
+Escritas ou pronúncias parecidas, mas sentidos diferentes
+
+"O comprimento da parente mede 3 metros."
+"O cumprimento japonês é tradicional."
+
+
 Morfologia#
 Estudo da classificação, origem, flexão, das palavras e dos processos de formação.
 
@@ -62,26 +78,27 @@ Verbos intransitivos são verbos com significado completo
 Exemplo de verbo transitivo direto#
 "Os alunos fizeram a lição"
 
-- Fizeram o que? (não pede preposição)
-a lição - Objeto direto
+- Fizeram o quê?
+
+A lição - Objeto direto
 
 
 Exemplo de verbo transitivo indireto#
 "A empresa precisa de mim."
 
-- precisa de que? (pede preposição)
+- Precisa de quê?
+
 de mim - Objeto indireto
 
 
 Exemplo de verbo bitransitivo#
 "Joaqui ofereceu flores à namorada"
 
-- O que?
+- O quê?
 Flores - Objeto direto
 
 - A quem?
 À namorada - Objeto Indireto
-
 
 
 Tipos de Artigo#
@@ -89,12 +106,12 @@ Definido
 Indefinido
 
 
-Tipos de Artigo Definido#
-O, A, Os, As
+Tipos de artigos definidos#
+o, a, os, as
 
 
-Tipos de Artigo Indefinido#
-Um, Uma, Uns, Umas
+Tipos de atigos indefinido#
+um, uma, uns, umas
 
 
 Tipos de Substantivo #
