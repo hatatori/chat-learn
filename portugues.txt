@@ -16,16 +16,19 @@ Hiponímia e Hiperonímia
 
 Sinonímia #
 Palavras diferentes, significados iguais
+
 - Belo / Bonito
 
 
 Antonímia #
 Palavras diferentes, significados opostos
+
 - Feio / Bonito
 
 
 Paronímia #
 Palavras parecidas, significados diferentes
+
 - Eminente / Iminente
 
 
@@ -576,11 +579,15 @@ Mistura de sensações
 
 Figura de linguagem - Hipérbole#
 Exagero 
+
 - Estou morrendo de fome
 
 
 Figura de linguagem - Catacrese#
-- A manga da camisa rasgou
+Palavra empregada com sentido alterado.
+
+- A manga da camisa rasgou.
+- Quebraram a asa da xícara.
 
 
 Figura de linguagem - Eufemismo#
@@ -741,3 +748,10 @@ Figura de linguagem - Paronomásia#
 - Repetição de palavras parecidas 
 
 - Sempre ceder, sem preceder, sem preferir, sempre ferir.
+
+
+Figura de linguagem - Estrangeirismo #
+Uso "emprestado" de uma palavra, expressão ou construção frasal estrangeira.
+
+- Me empresta o pen drive.
+- Você precisa fazer o check in no aeroporto.
