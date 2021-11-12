@@ -93,7 +93,14 @@ barra.onkeyup=function(e){
 }
 
 function enviarResposta(){
+
+    if(barra.value == "")
+        barra.value = "?"
+
     post(barra.value,1)
+
+
+
         chat.lastChild.classList.remove('opacity-0')
         barra.value = ""
         
@@ -127,8 +134,10 @@ function listaesquerda(o){
         p.onclick=function(){
             numero_da_questao = this.po
             hr()
-            questao(obj,this.po)
+            post(obj[this.po].per,0)
+            // questao(obj,this.po)
             endScroll()
+            light(this.po)
         }
         lista_de_questoes.appendChild(p)
         nu++
@@ -151,5 +160,7 @@ bt_prev.onclick=()=>{
 }
 
 bt_send.onclick=()=>{
+    console.log(barra.value)
+    
     enviarResposta()
 }

@@ -1,0 +1,225 @@
+2 tipos de clasees de palavras #
+Variáveis
+Invariáveis
+
+
+Classe de palavras variáveis #
+(NAVASP)
+- Numeral
+- Artigo
+- Verbo
+- Adjetivo
+- Substantivo
+- Pronome
+
+
+Classe de palavras invariáveis #
+(PICA)
+- Preposição
+- Intejeição
+- Conjunção
+- Advérbio
+
+
+Tipos de Numeral#
+(COMF)
+Cardinal
+Ordinal
+Multiplicativo
+Fracionário
+
+
+Tipos de Adjetivo #
+Simples
+Composto
+Primitivo
+Derivado
+Pátrio
+
+
+Tipos de Verbo#
+VTD
+VTDI 
+VI
+V. Ligação 
+Regular
+Irregular
+
+
+Tipos de Artigo#
+Definido
+Indefinido
+
+
+Tipos de Substantivo #
+Comum
+Próprio
+Simples
+Composto
+Concreto
+Abstrato
+Pritivo
+Derivado
+Coletivo
+
+
+Tipos de Pronome #
+(PRIDIPO)
+Pessoal
+Relativo
+Interrogativo
+Demonstrativo
+Indefinido
+Possessivo            
+Oblíquo
+
+
+Tipos de Pronome Pessoal reto #
+Eu
+Tu
+Ele
+Nós
+Vós
+Eles
+
+
+Tipos de Pronome Pessoal reto singular #
+Eu
+Tu
+Ele
+
+
+Tipos de pronome Pessoal reto plural #
+Nós
+Vós
+Eles
+
+
+Tipos de pronome pessoal oblíquo átono #
+Me 
+Te 
+O A Se Lhe
+Nos
+Vos
+Os As Se lhes
+
+
+Tipos de pronome pessoal oblíquo tônico #
+Mim comigo
+Ti Contigo
+Si consigo
+Nós conosco
+Vós convosco
+Si consigo eles elas
+
+
+Tipos de Preposição#
+a ante após até
+de desde
+com contra
+em também
+para perante por
+sem sob sobre
+
+
+Tipos de Interjeição #
+Dor
+Desejo
+Alegria
+Advertência
+Alívio
+Animação
+Afugentamento
+Aplauso
+Chamamento
+Silêncio
+Impaciência
+Espanto
+
+
+Tipos de Conjunções #
+Subordinativas
+Coordenativas
+
+
+Tipos de Conjunções Coordenativas#
+(3ACE)
+Alternativa
+Aditiva
+Adversativa
+Conclusiva
+Explicativa
+
+
+Tipos de Conjunções Coordenativas Aditivas #
+Aditiva - e, nem , mas também, como também, bem como
+
+
+Tipos de Conjunções Coordenativas Adversativas #
+Adversativa - mas, porém, todavida, contudo, entretanto
+
+
+Tipos de Conjunções Coordenativas Alternativas #
+Alternativa - ou...ou..., ora...ora..., quer... quer...
+
+
+Tipos de Conjunções Coordenativas Conclusivas #
+Conclusiva - logo, portanto, por isso, assim, por conseguinte
+
+
+Tipos de Conjunções Coordenativas Explicativas #
+Explicativa - que, porque, porquanto, pois
+
+
+Tipos de Conjunção Subordinativa#
+(5C-FTP)
+Comparação
+Causal
+Concessiva
+Condicional
+Conformativa
+Final
+Temporal
+Propocional
+
+Tipos de Conjunções subordinativa Explicativa #
+Comparação - como, tal qual, que ou do que, assim como, mais que, menos que, menos
+
+
+Tipos de Conjunções subordinativa Causal #
+Causal - porque, uma vez que, sendo que, visto que, como
+
+
+Tipos de Conjunções subordinativa Concessiva #
+Concessiva - mesmo que, por mais que, ainda que, se bem que, embora
+
+
+Tipos de Conjunções subordinativa Condicional #
+Condicional - se, caso, contanto que, a menos que, salvo se
+
+
+Tipos de Conjunções subordinativa Conformativa #
+Conformativa - coforme, segundo, consoante, assim como
+
+
+Tipos de Conjunções subordinativa Final #
+Final - a fim de que, para que
+
+
+Tipos de Conjunções subordinativa temporal #
+Temporal - quando, enquanto, sempre que, logo que, depois que
+
+
+Tipos de Conjunções subordinativa Proporcional #
+Propocional - à medida que, à proporção que, quanto mais, quanto menos
+
+
+Classe de palavras invariáveis - Advérbio #
+(TILMAND)
+Tempo
+Intensidade
+Lugar
+Modo
+Afirmação
+Negação
+Duvida
