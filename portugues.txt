@@ -50,10 +50,6 @@ Verbos de ação (Dormir, cantar)
 Verbos de estado (ser, ter)
 Verbos de natureza (chover)
 
-V. Ligação 
-Regular
-Irregular
-
 
 Exemplo de verbo intransitivo#
 Verbos intransitivos são verbos com significado completo
@@ -158,7 +154,6 @@ Tipos de Pronomes Demonstrativos#
 Tipos de Pronomes Interrogativos variáveis#
 Qual, quais, quantos, quantas
 
-
 Quanto custa a entrada?
 Quais colares você quer?
 
@@ -170,11 +165,13 @@ Que é este embrulho?
 
 
 Tipos de Pronomes Relativos variáveis#
-o qual/os quais ; a qual/as quais
-cujo/cujos      ; cuja/cujas
-quanta/quantas
+- o qual/os quais
+- a qual/as quais
+- cujo/cujos
+- cuja/cujas
+- quanta/quantas
 
-Esta é o escritoda a cuja obra me fascina encanta
+Esta é a escritora a cuja obra me fascina encanta
 
 
 Tipos de Pronomes inaviáveis#
