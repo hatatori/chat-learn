@@ -274,23 +274,23 @@ Conclusiva
 Explicativa
 
 
-Tipos de Conjunções Coordenativas Aditivas #
+Tipos de Conjunções coordenativas Aditivas #
 Aditiva - e, nem , mas também, como também, bem como
 
 
-Tipos de Conjunções Coordenativas Adversativas #
+Tipos de Conjunções coordenativas Adversativas #
 Adversativa - mas, porém, todavida, contudo, entretanto
 
 
-Tipos de Conjunções Coordenativas Alternativas #
+Tipos de Conjunções coordenativas Alternativas #
 Alternativa - ou...ou..., ora...ora..., quer... quer...
 
 
-Tipos de Conjunções Coordenativas Conclusivas #
+Tipos de Conjunções coordenativas Conclusivas #
 Conclusiva - logo, portanto, por isso, assim, por conseguinte
 
 
-Tipos de Conjunções Coordenativas Explicativas #
+Tipos de Conjunções coordenativas Explicativas #
 Explicativa - que, porque, porquanto, pois
 
 
@@ -306,7 +306,7 @@ Temporal
 Propocional
 
 
-Tipos de Conjunções subordinativa Explicativa #
+Tipos de Conjunções subordinativa comparativa #
 Comparação - como, tal qual, que ou do que, assim como, mais que, menos que, menos
 
 
