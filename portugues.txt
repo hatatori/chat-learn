@@ -539,31 +539,44 @@ Figura de linguagem de pensamento #
 
 
 Figura de linguagem - Metáfora#
-- Lúdico -  "Você é luz, é raio, estrela e luar"
+Lúdico 
+
+- "Você é luz, é raio, estrela e luar"
 
 
 Figura de linguagem - Símile ou Comparação#
-- Comparar - "Maria é mais alta que ana"
+Comparar 
+- "Maria é mais alta que ana"
 
 
 Figura de linguagem - Analogia#
-- Semelhança - "Para as pessoas, o motor de um avião é como de um carro"
+- Semelhança 
+- "Para as pessoas, o motor de um avião é como de um carro"
 
 
 Figura de linguagem - Metonímia#
-- Nome pela marca - "Passa bom bril que limpa"
+- Nome pela marca 
+
+- "Passa bom bril que limpa"
 
 
 Figura de linguagem - Perífrase#
-- Referência - "A cidade luz é bela" : "cidade luz" = París
+Referência 
+
+- "A cidade luz é bela"
+
+"cidade luz" = París
 
 
 Figura de linguagem - Sinestesia#
-- Mistura de sensações - Eu quero ouvir a cor dos passarinhos
+Mistura de sensações 
+
+- Eu quero ouvir a cor dos passarinhos
 
 
 Figura de linguagem - Hipérbole#
-- Exagero - Estou morrendo de fome
+Exagero 
+- Estou morrendo de fome
 
 
 Figura de linguagem - Catacrese#
@@ -571,75 +584,109 @@ Figura de linguagem - Catacrese#
 
 
 Figura de linguagem - Eufemismo#
-- Acalmar - 
+Acalmar
+- Ele partiu dessa pra melhor
 
 
 Figura de linguagem - Pleonasmo#
-- Redundância - Subir pra cima 
+Redundância 
+- Subir pra cima 
 
 
 Figura de linguagem - Anáfora#
-- Enfatisar a repetição palavras - "É {preciso} pagar as dívidas, é {preciso} esquecer, é {preciso} correr"
+Enfatisar a repetição palavras 
+- "É {preciso} pagar as dívidas, é {preciso} esquecer, é {preciso} correr"
 
 
 Figura de linguagem - Ambiguidade ou Anfibologia#
-- Duplo sentido -  O policial prendeu o homem em sua casa : Em que casa?
+Duplo sentido 
+- O policial prendeu o homem em sua casa
+
+Em que casa?
 
 
 Figura de linguagem - Antonomásia#
-- Substituição de pessoas ou objetos  - Rainha do Pop (Madona), Rei do Futebol (Pelé)
+Substituição de pessoas ou objetos
+
+- Rainha do Pop (Madona)
+- Rei do Futebol (Pelé)
 
 
 Figura de linguagem - Alegoria#
-- Não precisa ser expressa no texto (pintura, escultura) - Diz-se {A} para significar {a}
+Não precisa ser expressa no texto (pintura, escultura) 
+- Diz-se {A} para significar {a}
 
 
 Figura de linguagem - Simbologia#
-- Símbolos
+- ♥♦♣♠
 
 
 Figura de linguagem - Elipse#
-- omissão de um termo da - A tarde talvez fosse azul, não houvesse tantos desejos.
+omissão de um termo da 
+- A tarde talvez fosse azul, não houvesse tantos desejos.
 
 
 Figura de linguagem - Zeugma#
-- Omissão de um termo já expresso - Cristina jogava volei, eu futebol
+Omissão de um termo já expresso 
+- Cristina jogava volei, eu futebol
 
 
 Figura de linguagem - Silepse#
-- Palavra que concorda com a ideia - O casal viajou pela europa e tiraram muitas fotos
+Palavra que concorda com a ideia 
+- O casal viajou pela europa e tiraram muitas fotos
 
 
 Figura de linguagem - Hipérbato ou Inversão#
-- Está pronta a comida / A comida está pronta (concordância a ideia, não o subs.)
+Inversão de termos de uma oração ou de orações de um período.
+
+- Aves, desisti de ter aves.
+- Desisti de ter aves.
 
 
 Figura de linguagem - Polissíndeto#
-- x
+Repetição de conjunções (geralmente e)
+- E a névoa, e flores, e o doce do ar, 
 
 
 Figura de linguagem - Assíndeto#
-- x
+Ausência de conectivos
+
+- Ele tocava, bulia, arfava e ela dormia.
 
 
 Figura de linguagem - Anacoluto#
-- x
+Inesperada quebra de de rumo na construção sintática
+
+- O filme que vi ontem, achei que você ia adorar.
+- Eu, também me parece que as fiz, porém vou sempre negar.
 
 
 Figura de linguagem - Antítese#
-- De um lado {riqueza}, de outro, {probreza}
+Palavras de sentidos contrários.
+
+- De um lado (riqueza), de outro, (probreza)
 
 
 Figura de linguagem - Paradoxo#
-- x
+Ideias contráditórias
+
+- Estávamos vivando uma guerra pacífica.
+- É como merguhar no rio e não se molhar.
 
 
-Figura de linguagem - Gradação ou Clímax#
-- aumento ou diminuição de forma gradual - Andou, correu, 
+Figura de linguagem - Gradação ou Clímax #
+Junção de palavras de forma gradual
+
+- O filme é bom, ótimo, incrível.
+- Eu era pobre. Era subalterno. Era nada.
+
 
 
 Figura de linguagem - Personificação ou Prosopopeia#
-- x
+Características humanas a seres inanimados
+
+- O dia acordou feliz.
+- O cachorro sorriu para o dono.
 
 
 Figura de linguagem - Ironia#
@@ -647,15 +694,23 @@ Figura de linguagem - Ironia#
 
 
 Figura de linguagem - Apóstrofe#
-- x
+Aparece destacada por vírgulas ou algum sinal de pontuação
+
+- Senhor, tende piedade de nós.
+- Nossa! Como você chegou tão rápido?
 
 
 Figura de linguagem - Alusão#
-- Mensão ou citação - Hiroshima traz lembrança
+Ideia Referência.
+
+- Mensão ou citação - Hiroshima traz lembrança.
 
 
 Figura de linguagem - Quiasmo#
-- Troca cruzada - A língua é como espada : A espada é como a língua
+Disposição cruzada da ordem das partes simétricas de duas frases.
+
+- A língua é como espada.
+- A espada é como a língua.
 
 
 Figura de linguagem - Cacofonia#
@@ -663,17 +718,26 @@ Figura de linguagem - Cacofonia#
 
 
 Figura de linguagem - Onomatopeia#
-- Sons - Toc Toc
+Linguagem que se reproduz um som por meio de fonemas. Bastante utilizada em quadrinhos.
+
+- Toc Toc
+- POW!
 
 
 Figura de linguagem - Aliteração#
-- Repetição de sons (consoante) - A brisa do Brasil é como brasa
+Repetição de consoante
+
+- A brisa do Brasil é como brasa.
+- Vozes, veladas, veluda, vozes.
 
 
 Figura de linguagem - Assonância#
-- Repetição de sons (vogais) - Aonde anda a onda
+Repetição de vogais
+
+- Aonde anda a onda ardente.
 
 
 Figura de linguagem - Paronomásia#
-- Repetição de palavras parecidas - Sempre ceder, sem preceder
+- Repetição de palavras parecidas 
 
+- Sempre ceder, sem preceder, sem preferir, sempre ferir.
