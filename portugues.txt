@@ -1,4 +1,8 @@
-2 tipos de clasees de palavras #
+Morfologia
+Estudo da classificação, origem, flexão, das palavras e dos processos de formação.
+
+
+2 tipos de classes de palavras #
 Variáveis
 Invariáveis
 
@@ -51,16 +55,24 @@ Definido
 Indefinido
 
 
+Tipos de Artigo Definido#
+O, A, Os, As
+
+
+Tipos de Artigo Indefinido#
+Um, Uma, Uns, Umas
+
+
 Tipos de Substantivo #
-Comum
-Próprio
-Simples
-Composto
-Concreto
-Abstrato
-Pritivo
-Derivado
-Coletivo
+Comum    - ( casa sapo )
+Próprio  - ( pessoas, lugares )
+Simples  - ( celular )
+Composto - ( guarda-chuva )
+Concreto - ( pedra )
+Abstrato - ( amor )
+Pritivo  - ( ferro, pedra )
+Derivado - ( ferreiro, pedreira )
+Coletivo - ( população, vara )
 
 
 Tipos de Pronome #
@@ -72,6 +84,65 @@ Demonstrativo
 Indefinido
 Possessivo            
 Oblíquo
+
+
+Tipos de Pronomes Indefinidos Variáveis# 
+algum
+nenhum
+todo
+outro
+muito
+pouco
+certo
+vários
+tanto
+quanto
+qualquer
+
+
+Tipos de Pronomes Indefinidos invariáveis#
+alguém
+ninguém
+tudo
+outrem
+outrem
+nada
+cada
+algo
+
+
+Tipos de Pronomes Demonstrativos#
+1º - Este, estes, esta, estas, isto
+2º - Esse, esses, essa, essas, isso
+3º - Aquele, aqueles, aquela, aquelas, aquilo
+
+
+Tipos de Pronomes Interrogativos variáveis#
+Qual, quais, quantos, quantas
+
+
+Quanto custa a entrada?
+Quais colares você quer?
+
+
+Tipos de Pronomes Interrogativos invariáveis#
+Quem, que 
+
+Que é este embrulho?
+
+
+Tipos de Pronomes Relativos variáveis#
+o qual/os quais ; a qual/as quais
+cujo/cujos      ; cuja/cujas
+quanta/quantas
+
+Esta é o escritoda a cuja obra me fascina encanta
+
+
+Tipos de Pronomes inaviáveis#
+que
+quem
+onde
 
 
 Tipos de Pronome Pessoal reto #
@@ -182,6 +253,7 @@ Final
 Temporal
 Propocional
 
+
 Tipos de Conjunções subordinativa Explicativa #
 Comparação - como, tal qual, que ou do que, assim como, mais que, menos que, menos
 
@@ -214,12 +286,40 @@ Tipos de Conjunções subordinativa Proporcional #
 Propocional - à medida que, à proporção que, quanto mais, quanto menos
 
 
-Classe de palavras invariáveis - Advérbio #
+Tipos de Advérbio #
 (TILMAND)
-Tempo
-Intensidade
-Lugar
+Tempo - 
+Intensidade -
+Lugar 
 Modo
 Afirmação
 Negação
 Duvida
+
+
+Tipos de advérbio de Tempo #
+hoje, ontem, amanhã, atualmente, depois, agora, já, de repente, de vez enquando, à tarde, à noite, ...
+
+
+Tipos de advérbio de Intensidade #
+muito, pouco, bastante, demais, mais, menos, tanto, quanto, quase, apenas, ...
+
+
+Tipos de advérbio de Lugar #
+aqui, ali, cá, lá, longe, perto, abaixo, acima, à direita, à esquerda, ao lado, ...
+
+
+Tipos de advérbio de Modo #
+calmamente, humildemente, bem, mal, frente a frente, às claras, às pressas, à vontade, de mansinho, ...
+
+
+Tipos de advérbio de Afirmação #
+sim, decerto, certamente, sem dúvida, realmente, efetivamente, ...
+
+
+Tipos de advérbio de Negação #
+não, nunca, jamais, de modo algum, de jeito nenhum, absolutamente, ...
+
+
+Tipos de advérbio de Dúvida #
+talvez, quiçá, provavemente, possivelmente, porventura, acaso, ...
