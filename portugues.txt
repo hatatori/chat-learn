@@ -495,3 +495,185 @@ não, nunca, jamais, de modo algum, de jeito nenhum, absolutamente, ...
 Tipos de advérbio de Dúvida #
 talvez, quiçá, provavemente, possivelmente, porventura, acaso, ...
 
+
+Figuras de linguagem #
+Recurso linguístico que dá enfase em uma expressão
+
+
+Figura de linguagem de som #
+- onomatopeia
+- alieteração
+- assonância
+- paronomásia
+
+
+Figura de linguagem de palavra #
+- metonimia
+- comparação
+- metáfora
+- catacrese
+- sinestesia
+- antonomásia
+
+
+Figura de linguagem de sintáxe #
+- elipse 
+- anacoluto
+- anáfora
+- hipérbato
+- polissíndeto
+- assíndeto
+- pleonasmo
+- zeugma
+
+
+Figura de linguagem de pensamento #
+- hipérbole
+- eufemismo
+- prosopopeia
+- antítese
+- gradação
+- apóstrofe
+- ironia
+- paradoxo
+
+
+Figura de linguagem - Metáfora#
+- Lúdico -  "Você é luz, é raio, estrela e luar"
+
+
+Figura de linguagem - Símile ou Comparação#
+- Comparar - "Maria é mais alta que ana"
+
+
+Figura de linguagem - Analogia#
+- Semelhança - "Para as pessoas, o motor de um avião é como de um carro"
+
+
+Figura de linguagem - Metonímia#
+- Nome pela marca - "Passa bom bril que limpa"
+
+
+Figura de linguagem - Perífrase#
+- Referência - "A cidade luz é bela" : "cidade luz" = París
+
+
+Figura de linguagem - Sinestesia#
+- Mistura de sensações - Eu quero ouvir a cor dos passarinhos
+
+
+Figura de linguagem - Hipérbole#
+- Exagero - Estou morrendo de fome
+
+
+Figura de linguagem - Catacrese#
+- A manga da camisa rasgou
+
+
+Figura de linguagem - Eufemismo#
+- Acalmar - 
+
+
+Figura de linguagem - Pleonasmo#
+- Redundância - Subir pra cima 
+
+
+Figura de linguagem - Anáfora#
+- Enfatisar a repetição palavras - "É {preciso} pagar as dívidas, é {preciso} esquecer, é {preciso} correr"
+
+
+Figura de linguagem - Ambiguidade ou Anfibologia#
+- Duplo sentido -  O policial prendeu o homem em sua casa : Em que casa?
+
+
+Figura de linguagem - Antonomásia#
+- Substituição de pessoas ou objetos  - Rainha do Pop (Madona), Rei do Futebol (Pelé)
+
+
+Figura de linguagem - Alegoria#
+- Não precisa ser expressa no texto (pintura, escultura) - Diz-se {A} para significar {a}
+
+
+Figura de linguagem - Simbologia#
+- Símbolos
+
+
+Figura de linguagem - Elipse#
+- omissão de um termo da - A tarde talvez fosse azul, não houvesse tantos desejos.
+
+
+Figura de linguagem - Zeugma#
+- Omissão de um termo já expresso - Cristina jogava volei, eu futebol
+
+
+Figura de linguagem - Silepse#
+- Palavra que concorda com a ideia - O casal viajou pela europa e tiraram muitas fotos
+
+
+Figura de linguagem - Hipérbato ou Inversão#
+- Está pronta a comida / A comida está pronta (concordância a ideia, não o subs.)
+
+
+Figura de linguagem - Polissíndeto#
+- x
+
+
+Figura de linguagem - Assíndeto#
+- x
+
+
+Figura de linguagem - Anacoluto#
+- x
+
+
+Figura de linguagem - Antítese#
+- De um lado {riqueza}, de outro, {probreza}
+
+
+Figura de linguagem - Paradoxo#
+- x
+
+
+Figura de linguagem - Gradação ou Clímax#
+- aumento ou diminuição de forma gradual - Andou, correu, 
+
+
+Figura de linguagem - Personificação ou Prosopopeia#
+- x
+
+
+Figura de linguagem - Ironia#
+- Olha quem chegou! Chegou nem um pouco atrasada.
+
+
+Figura de linguagem - Apóstrofe#
+- x
+
+
+Figura de linguagem - Alusão#
+- Mensão ou citação - Hiroshima traz lembrança
+
+
+Figura de linguagem - Quiasmo#
+- Troca cruzada - A língua é como espada : A espada é como a língua
+
+
+Figura de linguagem - Cacofonia#
+- Junção soam desagradavelmente - Por ser tão tarde, vou-me já.
+
+
+Figura de linguagem - Onomatopeia#
+- Sons - Toc Toc
+
+
+Figura de linguagem - Aliteração#
+- Repetição de sons (consoante) - A brisa do Brasil é como brasa
+
+
+Figura de linguagem - Assonância#
+- Repetição de sons (vogais) - Aonde anda a onda
+
+
+Figura de linguagem - Paronomásia#
+- Repetição de palavras parecidas - Sempre ceder, sem preceder
+
