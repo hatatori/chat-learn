@@ -549,16 +549,18 @@ Lúdico
 
 Figura de linguagem - Símile ou Comparação#
 Comparar 
+
 - "Maria é mais alta que ana"
 
 
 Figura de linguagem - Analogia#
-- Semelhança 
+Semelhança
+
 - "Para as pessoas, o motor de um avião é como de um carro"
 
 
 Figura de linguagem - Metonímia#
-- Nome pela marca 
+Nome pela marca 
 
 - "Passa bom bril que limpa"
 
@@ -586,27 +588,31 @@ Exagero
 Figura de linguagem - Catacrese#
 Palavra empregada com sentido alterado.
 
-- A manga da camisa rasgou.
 - Quebraram a asa da xícara.
+- O braço do sofá é confortável.
 
 
 Figura de linguagem - Eufemismo#
 Acalmar
+
 - Ele partiu dessa pra melhor
 
 
 Figura de linguagem - Pleonasmo#
 Redundância 
+
 - Subir pra cima 
 
 
 Figura de linguagem - Anáfora#
 Enfatisar a repetição palavras 
+
 - "É {preciso} pagar as dívidas, é {preciso} esquecer, é {preciso} correr"
 
 
 Figura de linguagem - Ambiguidade ou Anfibologia#
 Duplo sentido 
+
 - O policial prendeu o homem em sua casa
 
 Em que casa?
@@ -630,16 +636,19 @@ Figura de linguagem - Simbologia#
 
 Figura de linguagem - Elipse#
 omissão de um termo da 
+
 - A tarde talvez fosse azul, não houvesse tantos desejos.
 
 
 Figura de linguagem - Zeugma#
 Omissão de um termo já expresso 
+
 - Cristina jogava volei, eu futebol
 
 
 Figura de linguagem - Silepse#
 Palavra que concorda com a ideia 
+
 - O casal viajou pela europa e tiraram muitas fotos
 
 
@@ -652,6 +661,7 @@ Inversão de termos de uma oração ou de orações de um período.
 
 Figura de linguagem - Polissíndeto#
 Repetição de conjunções (geralmente e)
+
 - E a névoa, e flores, e o doce do ar, 
 
 
@@ -721,6 +731,8 @@ Disposição cruzada da ordem das partes simétricas de duas frases.
 
 
 Figura de linguagem - Cacofonia#
+Qualidade do que soa desagradavelmente.
+
 - Junção soam desagradavelmente - Por ser tão tarde, vou-me já.
 
 
@@ -745,7 +757,7 @@ Repetição de vogais
 
 
 Figura de linguagem - Paronomásia#
-- Repetição de palavras parecidas 
+Repetição de palavras parecidas 
 
 - Sempre ceder, sem preceder, sem preferir, sempre ferir.
 
@@ -755,5 +767,3 @@ Uso "emprestado" de uma palavra, expressão ou construção frasal estrangeira.
 
 - Me empresta o pen drive.
 - Você precisa fazer o check in no aeroporto.
-
-
