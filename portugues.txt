@@ -1,4 +1,4 @@
-Morfologia
+Morfologia#
 Estudo da classificação, origem, flexão, das palavras e dos processos de formação.
 
 
@@ -34,6 +34,7 @@ Fracionário
 
 
 Tipos de Adjetivo #
+(SCPDP)
 Simples
 Composto
 Primitivo
@@ -42,12 +43,51 @@ Pátrio
 
 
 Tipos de Verbo#
-VTD
-VTDI 
-VI
+Verbo transitivo direto
+Verbo transitivo indireto
+Verbo bitransitivo
+Verbo intransitivo
+
+Verbos de ação (Dormir, cantar)
+Verbos de estado (ser, ter)
+Verbos de natureza (chover)
+
 V. Ligação 
 Regular
 Irregular
+
+
+Exemplo de verbo transitivo indireto #
+Verbos intransitivos são verbos com significado completo
+
+"O bebê caiu."
+"Minha filha já casou."
+"Estas razões não procedem."
+
+
+Exemplo de verbo transitivo direto#
+"Os alunos fizeram a lição"
+
+- Fizeram o que? (não pede preposição)
+a lição - Objeto direto
+
+
+Exemplo de verbo transitivo indireto#
+"A empresa precisa de mim."
+
+- precisa de que? (pede preposição)
+de mim - Objeto indireto
+
+
+Exemplo de verbo bitransitivo#
+"Joaqui ofereceu flores à namorada"
+
+- O que?
+Flores - Objeto direto
+
+- A quem?
+À namorada - Objeto Indireto
+
 
 
 Tipos de Artigo#
